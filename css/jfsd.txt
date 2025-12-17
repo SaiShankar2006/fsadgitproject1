@@ -1,2 +1,2 @@
 Java Full Stack Application Devolopment
-Spring and Spring boot
+Spring and Spring Boot
